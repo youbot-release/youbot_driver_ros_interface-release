@@ -1,3 +1,22 @@
+## youbot_driver_ros_interface (hydro) - 1.0.0-2
+
+User `youbot@ubuntu` released the packages in the `youbot_driver_ros_interface` repository into the `hydro` distro by running `/usr/bin/bloom-release youbot_driver_ros_interface --track hydro --rosdistro hydro` on `Tue, 25 Feb 2014 12:08:21 -0000`
+
+The `youbot_driver_ros_interface` package was released.
+
+Version of package(s) in repository `youbot_driver_ros_interface`:
+- rosdistro version: `1.0.0-1`
+- old version: `1.0.0-1`
+- new version: `1.0.0-2`
+
+Versions of tools used:
+- bloom version: `0.5.1`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## youbot_driver_ros_interface - 1.0.0-1
 
 User `walter@walter-d12` released the packages in the `youbot_driver_ros_interface` repository by running `/usr/bin/bloom-release youbot_driver_ros_interface --track hydro --rosdistro hydro` on `Mon, 10 Feb 2014 12:09:39 -0000`
