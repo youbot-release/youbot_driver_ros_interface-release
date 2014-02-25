@@ -1,0 +1,12 @@
+Source: ros-hydro-youbot-driver-ros-interface
+Section: misc
+Priority: extra
+Maintainer: Walter Nowak <nowak@locomotec.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-actionlib, ros-hydro-brics-actuator, ros-hydro-catkin, ros-hydro-control-msgs, ros-hydro-diagnostic-msgs, ros-hydro-geometry-msgs, ros-hydro-nav-msgs, ros-hydro-pr2-msgs, ros-hydro-rosconsole, ros-hydro-roscpp, ros-hydro-std-msgs, ros-hydro-std-srvs, ros-hydro-tf, ros-hydro-trajectory-msgs, ros-hydro-youbot-driver
+Homepage: http://www.youbot-store.com
+Standards-Version: 3.9.2
+
+Package: ros-hydro-youbot-driver-ros-interface
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-actionlib, ros-hydro-brics-actuator, ros-hydro-control-msgs, ros-hydro-diagnostic-msgs, ros-hydro-geometry-msgs, ros-hydro-nav-msgs, ros-hydro-pr2-msgs, ros-hydro-rosconsole, ros-hydro-roscpp, ros-hydro-std-msgs, ros-hydro-std-srvs, ros-hydro-tf, ros-hydro-trajectory-msgs, ros-hydro-youbot-driver
+Description: ROS wrapper for the youBot driver
