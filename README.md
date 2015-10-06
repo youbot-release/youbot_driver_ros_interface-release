@@ -1,3 +1,24 @@
+## youbot_driver_ros_interface (indigo) - 1.1.0-0
+
+The packages in the `youbot_driver_ros_interface` repository were released into the `indigo` distro by running `/usr/bin/bloom-release youbot_driver_ros_interface --track indigo --rosdistro indigo --new-track` on `Tue, 06 Oct 2015 07:47:34 -0000`
+
+The `youbot_driver_ros_interface` package was released.
+
+Version of package(s) in repository `youbot_driver_ros_interface`:
+- upstream repository: https://github.com/youbot/youbot_driver_ros_interface.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.1.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## youbot_driver_ros_interface (hydro) - 1.0.0-2
 
 User `youbot@ubuntu` released the packages in the `youbot_driver_ros_interface` repository into the `hydro` distro by running `/usr/bin/bloom-release youbot_driver_ros_interface --track hydro --rosdistro hydro` on `Tue, 25 Feb 2014 12:08:21 -0000`
